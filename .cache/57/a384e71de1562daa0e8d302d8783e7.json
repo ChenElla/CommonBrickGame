@@ -1,0 +1,1 @@
+{"id":"assets/images/brick.png","dependencies":[{"name":"/project/CommonBrickGame/package.json","includedInParent":true,"mtime":1666061637899}],"generated":{"js":"module.exports = \"/bc3a78746cf46f82a62cf201a70c3577.png\";"},"sourceMaps":null,"error":null,"hash":"7db6b56ccf809b55efe1facc58def2c2","cacheData":{"env":{}}}
